@@ -1,0 +1,3 @@
+[submodule "Divar_WebScrap"]
+	path = Divar_WebScrap
+	url = git@github.com:mojtabavi/Divar_WebScrap.git
